@@ -2,7 +2,7 @@
 
 ![image](./app.png)
 
-This is an app to support Hertie School's Curricular Affairs team to automate part of the course evaluation procedure. If you are part of the team, there are Windows, Mac and Linux-compatible versions of the app available in the releases branch of this repo. 
+This is an app to support Hertie School's Curricular Affairs team to automate part of the course evaluation procedure. If you are part of the team, there are Windows, Mac and Linux-compatible versions of the app available in the releases branch of this repo: [Download Desktop App](https://github.com/hertie-data-science-lab/hertie-course-eval/releases)
 
 Prototype for testing is available on Heroku at: https://hertie-course-eval.herokuapp.com/
 
